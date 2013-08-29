@@ -1,4 +1,3 @@
-, '1.1.0',
 d::Spec.new do |s|
   s.name     = 'Evernote-SDK-iOS'
   s.version  = '1.1.0'
