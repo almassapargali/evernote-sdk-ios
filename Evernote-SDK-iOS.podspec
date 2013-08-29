@@ -1,4 +1,4 @@
-d::Spec.new do |s|
+Pod::Spec.new do |s|
   s.name     = 'Evernote-SDK-iOS'
   s.version  = '1.1.0'
   s.platform = :ios,'5.0'
